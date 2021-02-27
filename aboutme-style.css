@@ -1,0 +1,22 @@
+h1, h2{
+    color: rgb(0, 191, 255);
+    font-family: "Arial Black";
+    font-weight: bolder;
+    font-style: normal;
+}
+b{
+    color: yellow;
+}
+
+body{
+    background-color: lightslategray;
+}
+
+a{
+    color: red;
+}
+
+h2 p{
+color: yellow;
+}
+
